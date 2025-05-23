@@ -23,3 +23,7 @@ This repository is divided to branches that correspond to the blog post sections
 ## Reflection 3.1 
 
 ![](/images/3-1.png)
+
+Then I changed the color theme of the UI of the chat system, and chats with users `minniee` and `monmon`. 
+
+![](/images/3-2.png)
